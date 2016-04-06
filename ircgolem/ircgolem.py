@@ -6,5 +6,5 @@
 
 # Modifications : N/A
 
-# Description   : IRC Bot for Freenode Channels
+# Description   : IRC Bot for IRC Bot for the Freenode Network.
 
